@@ -1,6 +1,8 @@
 # Project Title
 University-guide
 
+# Tools 
+Used Vite+react to create the intiall directory structure
 
 ## Screenshots
 ![Alt text](https://github.com/Vsjangal/Blitz-assignment-frontend-reactjs/blob/main/src/Screenshots/screen1.png)
