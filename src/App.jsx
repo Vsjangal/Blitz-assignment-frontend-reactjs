@@ -49,9 +49,9 @@ function App() {
 
   const searchUniversities = async () => {
     if (countryInput === "") {
-      alert("Please enter a country name");
       setUniversities([]);
       setTotalUniversities(0);
+      alert("Please enter a country name");
       return;
     }
 
