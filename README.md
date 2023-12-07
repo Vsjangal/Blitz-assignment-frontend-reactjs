@@ -3,9 +3,33 @@ University-guide
 
 
 ## Screenshots
-<div align="center">
-    <img src="/screenshots/screen1.jpg" width="400px"</img> 
-</div>
+![Alt text](https://github.com/Vsjangal/Blitz-assignment-frontend-reactjs/blob/main/src/Screenshots/screen1.png)
+
+
+
+
+
+
+
+![Alt text](https://github.com/Vsjangal/Blitz-assignment-frontend-reactjs/blob/main/src/Screenshots/screen2.png)
+
+
+
+
+
+
+
+# Added loading screen till data returned by api
+
+
+![Alt text](https://github.com/Vsjangal/Blitz-assignment-frontend-reactjs/blob/main/src/Screenshots/screen3.png)
+
+
+
+
+
+
+![Alt text](https://github.com/Vsjangal/Blitz-assignment-frontend-reactjs/blob/main/src/Screenshots/screen4.png)
 
 ## Technologies
 I used `ReactJs` framework and async/await for accessing the data from API
